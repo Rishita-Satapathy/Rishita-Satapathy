@@ -28,11 +28,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Rishita's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishita-Satapathy&show_icons=true&theme=radical" alt="Rishita's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishita-Satapathy&theme=radical" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishita-Satapathy&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
